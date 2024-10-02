@@ -1,0 +1,26 @@
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\bin\Debug\net8.0\Application.deps.json
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\bin\Debug\net8.0\Application.dll
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\bin\Debug\net8.0\Application.pdb
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\obj\Debug\net8.0\Application.dll
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\obj\Debug\net8.0\Application.pdb
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Escritorio\TPIPROG3\Melodify\Application\bin\Debug\net8.0\Application.deps.json
+D:\Escritorio\TPIPROG3\Melodify\Application\bin\Debug\net8.0\Application.dll
+D:\Escritorio\TPIPROG3\Melodify\Application\bin\Debug\net8.0\Application.pdb
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.dll
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.pdb
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Escritorio\TPIPROG3\Melodify\Application\bin\Debug\net8.0\Domain.dll
+D:\Escritorio\TPIPROG3\Melodify\Application\bin\Debug\net8.0\Domain.pdb
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.csproj.CopyComplete

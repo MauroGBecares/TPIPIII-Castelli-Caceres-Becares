@@ -1,0 +1,34 @@
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\bin\Debug\net8.0\Domain.dll
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\obj\Debug\net8.0\Domain.dll
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\bin\Debug\net8.0\Domain.dll
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\obj\Debug\net8.0\Domain.dll
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Escritorio\Mauro\Tecnicatura en programacion\Año 2 - Primer Cuatrimestre\Programación III\TPI GIT\TPIprogIII-Castelli-Caceres-Becares\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Escritorio\TPIPROG3\Melodify\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Escritorio\TPIPROG3\Melodify\Domain\bin\Debug\net8.0\Domain.dll
+D:\Escritorio\TPIPROG3\Melodify\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\Domain.dll
+D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\ref\Domain.dll
