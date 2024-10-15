@@ -32,3 +32,4 @@ D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\Domain.dll
 D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Escritorio\TPIPROG3\Melodify\Domain\obj\Debug\net8.0\Domain.sourcelink.json

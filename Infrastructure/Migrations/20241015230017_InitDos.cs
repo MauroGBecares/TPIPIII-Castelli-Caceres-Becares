@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class Init : Migration
+    public partial class InitDos : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -60,6 +60,8 @@ namespace Infrastructure.Migrations
                         .Annotation("Sqlite:Autoincrement", true),
                     Title = table.Column<string>(type: "TEXT", nullable: false),
                     Artist = table.Column<string>(type: "TEXT", nullable: false),
+                    Genre = table.Column<string>(type: "TEXT", nullable: false),
+                    Cover = table.Column<string>(type: "TEXT", nullable: false),
                     State = table.Column<int>(type: "INTEGER", nullable: false),
                     ReleaseDate = table.Column<DateTime>(type: "TEXT", nullable: false),
                     Stock = table.Column<int>(type: "INTEGER", nullable: false),
