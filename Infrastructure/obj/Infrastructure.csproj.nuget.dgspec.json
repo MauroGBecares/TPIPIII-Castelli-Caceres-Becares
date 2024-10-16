@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\TPIPROG3\\Melodify\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\TPIPROG3\\Melodify\\Application\\Application.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\TPIPROG3\\Melodify\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Escritorio\\TPIPROG3\\Melodify\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Mauro\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\TPIPROG3\\Melodify\\Application\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Escritorio\\TPIPROG3\\Melodify\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Escritorio\\TPIPROG3\\Melodify\\Domain\\Domain.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Domain.csproj"
               }
             }
           }
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,21 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Escritorio\\TPIPROG3\\Melodify\\Domain\\Domain.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\TPIPROG3\\Melodify\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Escritorio\\TPIPROG3\\Melodify\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Mauro\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\TPIPROG3\\Melodify\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,6 +98,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -114,21 +124,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Escritorio\\TPIPROG3\\Melodify\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\TPIPROG3\\Melodify\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Escritorio\\TPIPROG3\\Melodify\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Mauro\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\TPIPROG3\\Melodify\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,11 +152,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Escritorio\\TPIPROG3\\Melodify\\Application\\Application.csproj": {
-                "projectPath": "D:\\Escritorio\\TPIPROG3\\Melodify\\Application\\Application.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Application.csproj"
               },
-              "D:\\Escritorio\\TPIPROG3\\Melodify\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Escritorio\\TPIPROG3\\Melodify\\Domain\\Domain.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Domain.csproj"
               }
             }
           }
@@ -155,6 +165,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -202,7 +217,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
