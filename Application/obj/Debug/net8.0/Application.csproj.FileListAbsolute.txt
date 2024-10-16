@@ -24,3 +24,4 @@ D:\Escritorio\TPIPROG3\Melodify\Application\bin\Debug\net8.0\Domain.dll
 D:\Escritorio\TPIPROG3\Melodify\Application\bin\Debug\net8.0\Domain.pdb
 D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
 D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+D:\Escritorio\TPIPROG3\Melodify\Application\obj\Debug\net8.0\Application.sourcelink.json

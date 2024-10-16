@@ -52,3 +52,4 @@ D:\Escritorio\TPIPROG3\Melodify\Infrastructure\obj\Debug\net8.0\Infrastructure.g
 D:\Escritorio\TPIPROG3\Melodify\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
 D:\Escritorio\TPIPROG3\Melodify\Infrastructure\bin\Debug\net8.0\Application.dll
 D:\Escritorio\TPIPROG3\Melodify\Infrastructure\bin\Debug\net8.0\Application.pdb
+D:\Escritorio\TPIPROG3\Melodify\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

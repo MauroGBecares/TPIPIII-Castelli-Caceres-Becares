@@ -30,6 +30,14 @@ namespace Infrastructure.Migrations
                     b.Property<int>("CartId")
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("Cover")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Genre")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<decimal>("Price")
                         .HasColumnType("TEXT");
 
