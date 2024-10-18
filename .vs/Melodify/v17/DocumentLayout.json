@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\application\\models\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|solutionrelative:application\\models\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\infrastructure\\data\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\application\\models\\addmusicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|solutionrelative:application\\models\\addmusicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\infrastructure\\data\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\application\\models\\addalbumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|solutionrelative:application\\models\\addalbumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\domain\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\application\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|solutionrelative:application\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\application\\models\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|solutionrelative:application\\models\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\domain\\entities\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\application\\models\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|solutionrelative:application\\models\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|c:\\users\\usuario\\source\\repos\\tpipiii-castelli-caceres-becares\\application\\models\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7E73D1-EA8F-4B00-9FD2-9787183C9850}|Application\\Application.csproj|solutionrelative:application\\models\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,87 +75,135 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EfRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\EfRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\EfRepository.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\EfRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\EfRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Title": "AddAlbumDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\AddAlbumDto.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\AddAlbumDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\AddAlbumDto.cs",
+              "RelativeToolTip": "Application\\Models\\AddAlbumDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:50:00.035Z"
+              "WhenOpened": "2024-10-18T22:36:57.142Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\RepositoryBase.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\RepositoryBase.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwB4AAAAaAAAA",
+              "Title": "AddMusicDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\AddMusicDto.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\AddMusicDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\AddMusicDto.cs",
+              "RelativeToolTip": "Application\\Models\\AddMusicDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:50:00.052Z"
+              "WhenOpened": "2024-10-18T22:26:08.361Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\IRepositoryBase.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Title": "AddUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\AddUserDto.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\AddUserDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\AddUserDto.cs",
+              "RelativeToolTip": "Application\\Models\\AddUserDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:50:00.055Z",
+              "WhenOpened": "2024-10-18T22:04:51.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Cart.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Cart.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Cart.cs",
-              "RelativeToolTip": "Domain\\Entities\\Cart.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\UserDto.cs",
+              "RelativeToolTip": "Application\\Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:50:00.058Z"
+              "WhenOpened": "2024-10-18T21:08:57.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MusicDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\MusicDto.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\MusicDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\MusicDto.cs",
+              "RelativeToolTip": "Application\\Models\\MusicDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:08:48.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\CartDto.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\CartDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\CartDto.cs",
+              "RelativeToolTip": "Application\\Models\\CartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:08:40.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlbumDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\AlbumDto.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\AlbumDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Application\\Models\\AlbumDto.cs",
+              "RelativeToolTip": "Application\\Models\\AlbumDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:08:33.183Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:50:00.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Music.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Music.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Music.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Music.cs",
-              "RelativeToolTip": "Domain\\Entities\\Music.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:50:00.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Album.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Album.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Album.cs",
               "RelativeToolTip": "Domain\\Entities\\Album.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:50:00.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "Domain\\Entities\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:50:00.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Music.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Music.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Music.cs",
+              "RelativeToolTip": "Domain\\Entities\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:50:00.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:50:00.061Z"
             }
           ]
         }

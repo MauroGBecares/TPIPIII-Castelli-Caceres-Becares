@@ -1,18 +1,14 @@
 ﻿using Domain.Enums;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Entities
+namespace Application.Models
 {
-    public class Album
+    internal class AlbumDto
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] 
         public int Id { get; set; }
         public string Title { get; set; }
         public string Artist { get; set; }
@@ -22,7 +18,5 @@ namespace Domain.Entities
         public DateTime ReleaseDate { get; set; }
         public int Stock { get; set; }
         public decimal Price { get; set; }
-        public List<Music> Songs { get; set; }
-        public Cart Cart { get; set; }
     }
 }
