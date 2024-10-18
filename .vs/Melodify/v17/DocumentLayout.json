@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\infrastructure\\data\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\infrastructure\\data\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\infrastructure\\data\\musicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\musicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\infrastructure\\data\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\infrastructure\\interfaces\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\infrastructure\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\infrastructure\\interfaces\\imusicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\imusicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\infrastructure\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\infrastructure\\data\\albumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972E609-48CE-4B17-8437-93E8C9292901}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\albumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\domain\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F73550-1232-469B-AA03-258F0C21A334}|Web\\Web.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F73550-1232-469B-AA03-258F0C21A334}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\domain\\interfaces\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\domain\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\domain\\interfaces\\imusicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\imusicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|c:\\users\\maria\\onedrive\\escritorio\\utn\\cuatrimestre 3\\programaci\u00F3n iii\\tpi\\tpipiii-castelli-caceres-becares\\domain\\entities\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC996FD-33FB-47A0-B070-373D4579E17C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:08:35.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Interfaces\\IAlbumRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IAlbumRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Interfaces\\IAlbumRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IAlbumRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:54:04.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMusicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Interfaces\\IMusicRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IMusicRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Interfaces\\IMusicRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IMusicRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:54:42.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\RepositoryBase.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:31:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\EfRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\EfRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\EfRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:31:18.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:54:24.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\MusicRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\MusicRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\MusicRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\MusicRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:09:40.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\CartRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:10:47.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:55:25.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\AlbumRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AlbumRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Infrastructure\\Data\\AlbumRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AlbumRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:52:24.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Album.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Album.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Album.cs",
+              "RelativeToolTip": "Domain\\Entities\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:31:18.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:31:47.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\IAlbumRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAlbumRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\IAlbumRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAlbumRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:00:53.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:31:18.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:02:02.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMusicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\IMusicRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IMusicRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\IMusicRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IMusicRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:01:05.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:02:36.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "Domain\\Entities\\Cart.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:31:18.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:31:18.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Music.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Music.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\UTN\\Cuatrimestre 3\\Programaci\u00F3n III\\TPI\\TPIPIII-Castelli-Caceres-Becares\\Domain\\Entities\\Music.cs",
+              "RelativeToolTip": "Domain\\Entities\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:31:18.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
